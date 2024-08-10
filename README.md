@@ -14,4 +14,4 @@ My name is Abiodun Ayo-Bali. Currently a PhD student in the geological and envir
 
 
 
-![](images/landslide.JPG)
+![](images/bigdata.JPG)
